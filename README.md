@@ -34,3 +34,11 @@
 ## Apolloって何？
 - GraphQLのフロント・バックエンドライブラリ
 - クライアント側でもサーバー側でもApolloが用いられる
+
+## Mutationとは？
+|  | SQL/REST | GraphQL |
+| ---- |  -------- | ------- |
+| 取得 | SELECT | Query |
+| 登録 | INSERT | Mutation |
+| 更新 | UPDATE | Mutation |
+| 削除 | DELETE | Mutation |
