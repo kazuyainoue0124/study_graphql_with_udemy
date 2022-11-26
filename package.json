@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/kazuyainoue0124/study_graphql_with_udemy#readme",
   "dependencies": {
+    "@prisma/client": "^4.6.1",
     "apollo-server": "^2.26.1",
     "graphql": "^14.7.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "prisma": "^4.6.1"
+  }
 }
