@@ -1,0 +1,25 @@
+{
+  "name": "study_graphql_with_udemy",
+  "version": "1.0.0",
+  "description": "[【GraphQL入門】RESTに代わるモダンAPIのGraphQLでニュースアプリAPIを構築しながら基礎を学ぶ入門講座 ](https://www.udemy.com/course/graphql-tutorial-with-newsapp-api/)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuyainoue0124/study_graphql_with_udemy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazuyainoue0124/study_graphql_with_udemy/issues"
+  },
+  "homepage": "https://github.com/kazuyainoue0124/study_graphql_with_udemy#readme",
+  "dependencies": {
+    "apollo-server": "^2.26.1",
+    "graphql": "^14.7.0"
+  },
+  "devDependencies": {}
+}
