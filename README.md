@@ -43,7 +43,7 @@
 | 更新 | UPDATE | Mutation |
 | 削除 | DELETE | Mutation |
 
-# Prismaとは？
+## Prismaとは？
 - 次世代オープンソースORM
 - ORM(Object Relational Mapping) ≒ RDB(Relational Data Base)
 - SQLを知らなくてもRDBを操作できるオープンソースのサービス
@@ -51,3 +51,6 @@
 
 ### Prismaの立ち位置
 - クライアント側からのqueryに応じてDBと接続してサーバー側からデータを返す
+
+## サブスクリプションとは？
+- リアルタイム通信。サーバー側で情報が更新されたらクライアント側にもリアルタイムで反映される。
